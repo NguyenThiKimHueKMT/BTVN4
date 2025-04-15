@@ -48,7 +48,7 @@ Bước 10:Nhap dữ liệu cho bảng LichHoc.
 Bước 11: sơ đồ  
 ![image](https://github.com/user-attachments/assets/570b4f77-6a1d-48d9-b173-b39de6cabe89)   
 
-Bước 12:
+Bước 12:sử dụng SQL Server Management Studio (SSMS) để chạy một câu truy vấn SQL trong cơ sở dữ liệu có tên là BTVN-4. Đây là một truy vấn SELECT kết hợp nhiều bảng để lọc thông tin từ bảng LichHoc.
 ![Screenshot (99)](https://github.com/user-attachments/assets/4988b86e-d8e1-4ecb-ab23-6557bea18135)
 
 
