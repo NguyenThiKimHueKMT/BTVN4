@@ -45,7 +45,10 @@ Bước 10:Nhập dữ liệu cho bảng GiangVien.
 Bước 10:Nhap dữ liệu cho bảng LichHoc.   
 ![image](https://github.com/user-attachments/assets/e94b2328-b553-4ff5-b07b-58a5db14c756)   
 
-Bước 11: sơ đồ  
+Bước 11: Tạo sơ đồ quan hệ giữa các bảng trong cơ sở dữ liệu BTVN-4 bằng Database Diagram.
+
+Các bảng được liên kết gồm: LichHoc, GiangVien, MonHoc, Lop, PhongHoc.
+Trong đó, bảng trung tâm là LichHoc, liên kết khóa ngoại đến các bảng còn lại.
 ![image](https://github.com/user-attachments/assets/570b4f77-6a1d-48d9-b173-b39de6cabe89)   
 
 Bước 12:sử dụng SQL Server Management Studio (SSMS) để chạy một câu truy vấn SQL trong cơ sở dữ liệu có tên là BTVN-4. Đây là một truy vấn SELECT kết hợp nhiều bảng để lọc thông tin từ bảng LichHoc.
